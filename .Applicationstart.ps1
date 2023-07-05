@@ -5,7 +5,7 @@
 Get-Process -Name "HelloApp" -ErrorAction SilentlyContinue | Stop-Process -Force
 
 # Specify the path to your console application executable
-$consoleAppPath = "C:\Helloworld\HelloApp"
+$consoleAppPath = "C:\Helloworld\AWSCOnsole"
 
 
 # Specify the path for the output file
